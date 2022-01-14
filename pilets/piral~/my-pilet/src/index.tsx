@@ -1,4 +1,4 @@
-﻿import { PiletApi } from '../../shells/my-app/dist/emulator/my-app-0.0.1.tgz';
+﻿import { PiletApi } from '../../shells/my-app/dist/emulator/my-app-0.0.3.tgz';
 import * as Blazor from './blazor.codegen';
 import './my-pilet.styles.css';
 
