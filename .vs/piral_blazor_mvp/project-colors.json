@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f32d293-cd96-4c7c-8640-a22686bd250e": {
+      "ProjectGuid": "2f32d293-cd96-4c7c-8640-a22686bd250e",
+      "DisplayName": "designsystem",
+      "ColorIndex": 0
+    },
+    "883fedec-8393-4eb5-b1c6-14c8215d026a": {
+      "ProjectGuid": "883fedec-8393-4eb5-b1c6-14c8215d026a",
+      "DisplayName": "my-pilet",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
