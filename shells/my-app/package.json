@@ -6,7 +6,7 @@
     "piral"
   ],
   "dependencies": {
-    "blazor": "^6.0.0",
+    "blazor": "^6.0.0-pre.20220111.4",
     "piral": "^0.14.8-beta.3490",
     "piral-blazor": "^0.14.8-beta.3490"
   },
