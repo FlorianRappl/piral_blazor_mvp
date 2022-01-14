@@ -6,7 +6,7 @@
     "pilet"
   ],
   "devDependencies": {
-    "my-app": "file:..\\..\\..\\shells\\my-app\\dist\\emulator\\my-app-0.0.1.tgz",
+    "my-app": "file:..\\..\\..\\shells\\my-app\\dist\\emulator\\my-app-0.0.3.tgz",
     "@types/react": "^17",
     "@types/react-dom": "^17",
     "@types/react-router": "^5",
